@@ -1,0 +1,14 @@
+temp/
+dist/
+client/coverage
+_SpecRunner.html
+.DS_Store
+test-results.xml
+.idea
+node_modules
+bower_components
+dist
+.tmp
+*.log
+.vagrant
+npm.log.*
