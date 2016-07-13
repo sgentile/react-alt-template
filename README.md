@@ -1,1 +1,3 @@
-React-Alt-Template
+React-Alt-Template 
+
+Sample template setup.
